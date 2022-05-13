@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, php**
 
-- 📫 How to reach me **patryk.krasucki@helb-prigogine.be**
+- 📫 How to reach me **krasuckipatryk2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
