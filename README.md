@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://patryk.alwaysdata.net](http://patryk.alwaysdata.net)
 
-- 💬 Ask me about **Java, php**
+- 💬 Ask me about **C#, Unity**
 
 - 📫 How to reach me **krasuckipatryk2001@gmail.com**
 
