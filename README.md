@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 All of my projects are available at [http://patryk.alwaysdata.net](http://patryk.alwaysdata.net)
+- 👨‍💻 All of my projects are available at [https://www.patspoutnik.com](https://www.patspoutnik.com)
 
 - 💬 Ask me about **C#, Unity**
 
