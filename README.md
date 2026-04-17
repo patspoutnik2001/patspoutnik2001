@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patspoutnik2001&label=Profile%20views&color=0e75b6&style=flat" alt="patspoutnik2001" /> </p>
 
-<p align="left"> <a href="https://twitter.com/linkisiel" target="blank"><img src="https://img.shields.io/twitter/follow/linkisiel?logo=twitter&style=for-the-badge" alt="linkisiel" /></a> </p>
-
 - 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://www.patspoutnik.com](https://www.patspoutnik.com)
